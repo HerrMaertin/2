@@ -31,5 +31,4 @@ Homestead.json
 .env.dusk.local
 phpunit.dusk.xml
 /public/dist
-/public/build
 /public/mix-manifest.json

@@ -17,4 +17,10 @@ export default defineConfig({
             },
         }),
     ],
+    build: {
+        outDir: 'dist',
+        rollupOptions: {
+            input: ['resources/js/app.js', './index.html']
+        }
+    }
 });

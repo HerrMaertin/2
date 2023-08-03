@@ -6,7 +6,7 @@
             <div class="grid grid-cols-2 gap-8">
                 <div>
                     <!-- Hier kannst du ein Bild mit den Schmetterlingen einfügen -->
-                    <!-- Beispiel: <img src="/path/to/butterflies.jpg" alt="Schmetterlinge" class="rounded-lg shadow-lg"> -->
+                    <!-- Beispiel: <img resources="/path/to/butterflies.jpg" alt="Schmetterlinge" class="rounded-lg shadow-lg"> -->
                     <img src="/path/to/yoga-image.jpg" alt="SchwangerenYoga" class="rounded-lg shadow-lg">
                 </div>
                 <div>

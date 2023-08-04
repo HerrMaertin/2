@@ -56,7 +56,7 @@
       "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
       "resources/js/Pages/Welcome.vue"
     ],
-    "file": "assets/index-e5276124.js",
+    "file": "assets/index-5459d01b.js",
     "imports": [
       "_vue.m-dc902adf.js"
     ],
@@ -220,7 +220,7 @@
       "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
       "resources/js/Pages/Welcome.vue"
     ],
-    "file": "assets/app-bdce2af5.js",
+    "file": "assets/app-e6f03675.js",
     "imports": [
       "_vue.m-dc902adf.js"
     ],

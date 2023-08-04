@@ -19,7 +19,7 @@
         "vue": "^3.2.41"
     },
     "dependencies": {
-        "@headlessui/vue": "^1.7.15",
+        "@headlessui/vue": "^0.0.0-insiders.cc163ea",
         "@heroicons/vue": "^2.0.18",
         "@vue/cli-service": "^5.0.8"
     }

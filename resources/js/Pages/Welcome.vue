@@ -11,7 +11,8 @@
                 </div>
                 <div>
                     <p class="text-white text-xl mb-4">
-                        Willkommen zu unserem SchwangerenYoga-Kurs! Wir bieten eine entspannende und sichere Umgebung, um Yoga während deiner Schwangerschaft zu praktizieren.
+
+                      -Kurs! Wir bieten eine entspannende und sichere Umgebung, um Yoga während deiner Schwangerschaft zu praktizieren.
                     </p>
                     <p class="text-white text-lg mb-4">
                         Unsere erfahrenen Lehrerinnen begleiten dich durch sanfte Yoga-Übungen, die auf die Bedürfnisse werdender Mütter zugeschnitten sind.
